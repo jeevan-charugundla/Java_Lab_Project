@@ -124,15 +124,6 @@ Thank You For Booking!
 
 ---
 
-# 📸 Screenshots
-
-* Movie Selection Screen
-* Ticket Booking Screen
-* Payment Screen
-* Booking Confirmation Screen
-
----
-
 # 📖 Concepts Used
 
 * Classes and Objects
