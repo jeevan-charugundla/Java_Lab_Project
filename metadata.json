@@ -1,0 +1,6 @@
+{
+  "name": "Java OOP: Movie Ticket Booking System",
+  "description": "A console-based Java project generator teaching Object-Oriented Programming concepts through a movie ticket booking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
