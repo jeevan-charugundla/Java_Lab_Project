@@ -92,5 +92,5 @@ Processing UPI Payment of Rs.750.0...
 ```
 
 ## Author Details
-- **Created by:** You (College Student)
+- **Created by:** Jeevan Charugundla
 - **Submission for:** Object-Oriented Programming (OOP) Lab / Mini Project
